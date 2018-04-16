@@ -2,7 +2,7 @@
 
 ## cilium monitor
 
-Monitoring
+display BPF program events
 
 ### Synopsis
 
